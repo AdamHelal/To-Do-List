@@ -15,8 +15,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
-* Demo
-  * [Demo](#demo)
+* [Demo](#demo)
 
 
 
@@ -28,8 +27,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-A digital platform created by AUB's Nature Conservation Center; designed to enable citizen-driven rapid water quality assessment and aggregation of institutionally locked water quality data while providing concerned publics with digestible data visuals and means for community science and collective environmental activism.
+With the To-Do List app, experience a simple, minimalistic , and intuitive application developed solely for iOS
+devices. Our application was developed with productivity and efficiency as main goals, focusing mainly on adding
+and completing tasks, rather than wasting precious time on the unnecessary details.
+Users will be able to create their own account using their emails. In addition, each user will be able to create
+multiple lists that allow better organization. Each list contains detailed tasks to boost your workflow efficiency.
 
 
 
